@@ -1,0 +1,50 @@
+{
+    "fileName":"2024年度表彰",
+    "tableCount":2,
+    "sheet0":
+    [
+        {
+            "name": "优秀员工",
+            "type": "biao_ming"
+        },
+        {
+            "name": "部门",
+            "type": "lie_ming"
+        },
+        {
+            "name": "奖励名字",
+            "type": "lie_ming"
+        },
+        {
+            "name": "2019",
+            "type": "hang_ming"
+        },
+        {
+            "name": "2020",
+            "type": "hang_ming"
+        }
+    ],
+    "sheet1":
+    [
+        {
+            "name": "优秀部门",
+            "type": "biao_ming"
+        },
+        {
+            "name": "部门",
+            "type": "lie_ming"            
+        },
+        {
+            "name": "奖金",
+            "type": "lie_ming"
+        },
+        {
+            "name": "2021",
+            "type": "hang_ming"
+        },
+        {
+            "name": "2022",
+            "type": "hang_ming"
+        }
+    ]
+}
