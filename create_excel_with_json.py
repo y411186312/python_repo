@@ -123,7 +123,13 @@ def create_excel_file(excelObj, outputFile):
             rowDirectionCell.value = sheetInObj.rowStrList[j]
         #break
     wb.save(excelObj.name+".xlsx")
+ 
+def read_excelRowContent(FileName, rowList):
+    wb = openpyxl.load_workbook(FileName)
     
+    
+    
+ 
 def main(argv):
     appStr = ""
     outputFilePath = ""
